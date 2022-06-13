@@ -10,8 +10,6 @@
   "devDependencies": {},
   "scripts": {
     "liveStream": "node ./streamServer/index.js",
-    "chatServer": "node ./chatServer/index.js",
-    "runServers": "npm run liveStream && npm run chatServer",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
